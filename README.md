@@ -18,7 +18,7 @@ Sou uma desenvolvedora focada em criar soluções eficientes e explorar novas te
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
-### 📊 Linguagens utilizadas nos projetos
+### 📊 Top linguagens utilizadas nos projetos
 
 | Linguagem | Bytes | Percentual |
 |---:|---:|---:|
