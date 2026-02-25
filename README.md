@@ -17,11 +17,14 @@ Sou uma desenvolvedora focada em criar soluções eficientes e explorar novas te
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 📊 Dashboard de Linguagens
 
-- **Linguagens mais usadas neste perfil/repos:**
+### 📊 Linguagens utilizadas nos projetos
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraLF&layout=compact&theme=github_dark&langs_count=8)
+| Linguagem | Bytes | Percentual |
+|---:|---:|---:|
+| JavaScript | 18,416 | 46.0% █████████░░░░░░░░░░░ |
+| HTML | 11,826 | 29.5% █████░░░░░░░░░░░░░░░ |
+| CSS | 8,806 | 22.0% ████░░░░░░░░░░░░░░░░ |
 
 ---
 📫 **Como me encontrar:** https://www.linkedin.com/in/nayaralf/ | nayara993@gmail.com
