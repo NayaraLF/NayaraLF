@@ -9,6 +9,10 @@ Sou uma desenvolvedora focada em criar soluções eficientes e explorar novas te
 * **Back-end:** Estou construindo servidores e APIs eficientes com **Node.js**.
 * **Meu objetivo:** Aplicar meus conhecimentos em um estágio ou posição júnior em desenvolvimento de software, colaborando com equipes incríveis e resolvendo problemas reais.
 
+### 🌐 Portfólio
+
+Confira meu portfólio: [https://portifolio-gules-three-15.vercel.app/](https://portifolio-gules-three-15.vercel.app/)
+
 ### 💻 Minhas Ferramentas e Tecnologias
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
