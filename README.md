@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou a Nayara!
 
-<!--
-**NayaraLF/NayaraLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma desenvolvedora focada em criar soluções eficientes e explorar novas tecnologias. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+### 🚀 O que estou construindo e aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Front-end:** Estou desenvolvendo projetos com interfaces dinâmicas com **React** e ferramentas de build modernas como **Vite**.
+* **Back-end:** Estou construindo servidores e APIs eficientes com **Node.js**.
+* **Meu objetivo:** Aplicar meus conhecimentos em um estágio ou posição júnior em desenvolvimento de software, colaborando com equipes incríveis e resolvendo problemas reais.
+
+### 💻 Minhas Ferramentas e Tecnologias
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### 📊 Dashboard de Linguagens
+
+- **Linguagens mais usadas neste perfil/repos:**
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraLF&layout=compact&theme=github_dark&langs_count=8)
+
+---
+📫 **Como me encontrar:** https://www.linkedin.com/in/nayaralf/ | nayara993@gmail.com
