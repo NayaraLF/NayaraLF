@@ -44,3 +44,4 @@ Confira meu portfólio: [https://portifolio-gules-three-15.vercel.app/](https://
 | CSS | 14,966 | 25.5% █████░░░░░░░░░░░░░░░ |
 | Other | 7,381 | 12.6% ██░░░░░░░░░░░░░░░░░░ |
 <!--languages-end-->
+
