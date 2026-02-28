@@ -45,3 +45,4 @@ Confira meu portfólio: [https://portifolio-gules-three-15.vercel.app/](https://
 | Other | 7,381 | 12.6% ██░░░░░░░░░░░░░░░░░░ |
 <!--languages-end-->
 
+
