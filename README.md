@@ -23,27 +23,6 @@ Confira meu portfólio: [https://portifolio-gules-three-15.vercel.app/](https://
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
-### 📊 Top linguagens utilizadas nos projetos
-
-| Linguagem | Bytes | Percentual |
-|---:|---:|---:|
-| JavaScript | 18,416 | 46.0% █████████░░░░░░░░░░░ |
-| HTML | 11,826 | 29.5% █████░░░░░░░░░░░░░░░ |
-| CSS | 8,806 | 22.0% ████░░░░░░░░░░░░░░░░ |
-
----
-
-
-<!--languages-start-->
-### 📊 Linguagens (todos os repositórios do usuário NayaraLF)
-
-| Linguagem | Bytes | Percentual |
-|---:|---:|---:|
-| TypeScript | 92,455 | 55.9% ███████████░░░░░░░░░ |
-| JavaScript | 32,660 | 19.7% ███░░░░░░░░░░░░░░░░░ |
-| HTML | 16,532 | 10.0% █░░░░░░░░░░░░░░░░░░░ |
-| Other | 23,763 | 14.4% ██░░░░░░░░░░░░░░░░░░ |
-<!--languages-end-->
 
 
 
