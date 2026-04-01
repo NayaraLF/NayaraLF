@@ -56,3 +56,14 @@ Confira meu portfólio: [https://portifolio-gules-three-15.vercel.app/](https://
 
 
 
+
+<!--languages-start-->
+### 📊 Linguagens (todos os repositórios do usuário NayaraLF)
+
+| Linguagem | Bytes | Percentual |
+|---:|---:|---:|
+| TypeScript | 92,455 | 55.9% ███████████░░░░░░░░░ |
+| JavaScript | 32,660 | 19.7% ███░░░░░░░░░░░░░░░░░ |
+| HTML | 16,532 | 10.0% █░░░░░░░░░░░░░░░░░░░ |
+| Other | 23,763 | 14.4% ██░░░░░░░░░░░░░░░░░░ |
+<!--languages-end-->
