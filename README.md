@@ -22,3 +22,14 @@ Confira meu portfólio: [https://portifolio-gules-three-15.vercel.app/](https://
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+
+<!--languages-start-->
+### 📊 Linguagens (todos os repositórios do usuário NayaraLF)
+
+| Linguagem | Bytes | Percentual |
+|---:|---:|---:|
+| JavaScript | 31,654 | 44.6% ████████░░░░░░░░░░░░ |
+| HTML | 16,532 | 23.3% ████░░░░░░░░░░░░░░░░ |
+| CSS | 15,454 | 21.8% ████░░░░░░░░░░░░░░░░ |
+| Other | 7,381 | 10.4% ██░░░░░░░░░░░░░░░░░░ |
+<!--languages-end-->
